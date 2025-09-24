@@ -3,9 +3,6 @@
 Je suis un **développeur Web** passionné, spécialisé dans les technologies modernes **Front-end & Back-end**.  
 Actuellement, je recherche mon **premier poste** afin de mettre en pratique et faire grandir mes compétences.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumar-ux&show_icons=true&locale=en&layout=compact" alt="lumar-ux" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumar-ux&show_icons=true&locale=en" alt="lumar-ux" /></p>
 
 ## 🚀 Stack & Compétences
 
@@ -153,6 +150,10 @@ Actuellement, je recherche mon **premier poste** afin de mettre en pratique et f
   - Newsletter intégrée via Mailchimp/Mailjet + Improvmx pour emails personnalisés.  
   - Déploiement sur InfinityFree (hébergement PHP).  
   - Gestion de projet via Trello et méthodologie agile.
+## 📊 Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumar-ux&show_icons=true&locale=en&layout=compact" alt="lumar-ux" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumar-ux&show_icons=true&locale=en" alt="lumar-ux" /></p>
 
 
 ## 🎯 Objectifs
