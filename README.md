@@ -150,6 +150,8 @@ Actuellement, je recherche mon **premier poste** afin de mettre en pratique et f
   - Newsletter intégrée via Mailchimp/Mailjet + Improvmx pour emails personnalisés.  
   - Déploiement sur InfinityFree (hébergement PHP).  
   - Gestion de projet via Trello et méthodologie agile.
+
+
 ## 📊 Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumar-ux&show_icons=true&locale=en&layout=compact" alt="lumar-ux" /></p>
@@ -159,7 +161,7 @@ Actuellement, je recherche mon **premier poste** afin de mettre en pratique et f
 ## 🎯 Objectifs
 
 - Obtenir un poste **Junior Front-end / Full-stack** dans une équipe tech ambitieuse  
-- Apporter mes compétences en **Next.js, Laravel, TypeScript, NX**  
+- Apporter mes compétences en **Next.js, Laravel, TypeScript**  
 - Continuer à progresser sur les aspects **architecture, performance, tests**  
 
 
@@ -167,19 +169,3 @@ Actuellement, je recherche mon **premier poste** afin de mettre en pratique et f
 
 - **LinkedIn :** [linkedin.com/in/lucasmaroy](https://www.linkedin.com/in/lucasmaroy/)  
 - **Email :** lucasmaroy42@gmail.com
-
-⭐️ *Explore mes projets, regarde le code, et n’hésite pas à me contacter si tu veux collaborer ou échanger !*
-<!--
-**Lumar-ux/Lumar-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
