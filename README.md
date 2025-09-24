@@ -1,8 +1,11 @@
-# 👋 Bonjour, je suis Lucas Maroy
+# 🏄🏼‍♂️ Bonjour, je suis Lucas Maroy
 
 Je suis un **développeur Web** passionné, spécialisé dans les technologies modernes **Front-end & Back-end**.  
 Actuellement, je recherche mon **premier poste** afin de mettre en pratique et faire grandir mes compétences.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumar-ux&show_icons=true&locale=en&layout=compact" alt="lumar-ux" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumar-ux&show_icons=true&locale=en" alt="lumar-ux" /></p>
 
 ## 🚀 Stack & Compétences
 
@@ -101,14 +104,12 @@ Actuellement, je recherche mon **premier poste** afin de mettre en pratique et f
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/>
   </a>
 </p>
-
-
 
 ## 💼 Expériences
 
@@ -120,7 +121,6 @@ Actuellement, je recherche mon **premier poste** afin de mettre en pratique et f
 
 - **Formation Intensive Full-Stack (7 mois)**  
   Apprentissage et projets concrets en Front-end & Back-end.  
-
 
 ## 📂 Mes Projets Récents
 
