@@ -110,7 +110,7 @@ Actuellement, je recherche mon **premier poste** afin de mettre en pratique et f
 - **RTBF (6 mois – Stage)**  
   Développement Front-end et architecture pour la version “Entreprise” du site RTBF, aux côtés des équipes internes.  
 
-- **PEPPS (Stage)**  
+- **PEPPS (2 mois – Stage)**  
   Développement Web Front-End (React, TypeScript, Redux, MUI X).  
 
 - **Formation Intensive Full-Stack (7 mois)**  
