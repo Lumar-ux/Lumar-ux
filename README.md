@@ -1,22 +1,20 @@
-# 🏄🏼‍♂️ Bonjour, je suis Lucas Maroy
+# 🏄🏼‍♂️ Hello, I'm Lucas Maroy
 
-Je suis un **développeur Web** passionné, spécialisé dans les technologies modernes **Front-end & Back-end**.  
-Actuellement, je recherche mon **premier poste** afin de mettre en pratique et faire grandir mes compétences.
+I am a passionate **Web Developer** specializing in modern **Front-end & Back-end** technologies.
+I am currently seeking my **first position** to apply and expand my skills.
 
 
-## 🚀 Stack & Compétences
+## 🚀 Tech Stack & Skills
 
-- **Front-end :** Next.js v15, React, TypeScript, Redux, Tailwind CSS v4, shadcn/ui
-- **Back-end :** Laravel 12 (et notions de Laravel 11 selon projet), PHP, Notions de ASP.NET / C#
-- **API & Génération :** Orval (client OpenAPI auto-généré), REST API
-- **Architecture / Outillage :** NX (monorepos), bonnes pratiques, CI/CD
-- **Base de données :** PostgreSQL, MySQL
-- **Autres :** Git, tests (PestPHP), optimisation, collaboration inter-équipes
+  - **Front-end:** Next.js v15, React, TypeScript, Redux, Tailwind CSS v4, shadcn/ui
+  - **Back-end:** Laravel 12 (and familiarity with Laravel 11 depending on the project), PHP, basic knowledge of ASP.NET / C\#
+  - **API & Generation:** Orval (auto-generated OpenAPI client), REST API
+  - **Architecture / Tooling:** NX (monorepos), best practices, CI/CD
+  - **Database:** PostgreSQL, MySQL
+  - **Other:** Git, testing (PestPHP), optimization, cross-team collaboration
 
 <!-- Frontend -->
 <p align="left">
-
-  
   <!-- Frameworks Frontend -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="nextjs" width="40" height="40"/>
@@ -105,51 +103,55 @@ Actuellement, je recherche mon **premier poste** afin de mettre en pratique et f
   </a>
 </p>
 
-## 💼 Expériences
 
-- **RTBF (6 mois – Stage)**  
-  Développement Front-end et architecture pour la version “Entreprise” du site RTBF, aux côtés des équipes internes.  
+## 💼 Experience
 
-- **PEPPS (2 mois – Stage)**  
-  Développement Web Front-End (React, TypeScript, Redux, MUI X).  
+  - **RTBF (6 months – Internship)**
+    Front-end development and architecture for the "Entreprise" version of the RTBF website, working alongside the internal teams.
 
-- **Formation Intensive Full-Stack (7 mois)**  
-  Apprentissage et projets concrets en Front-end & Back-end.  
+  - **PEPPS (2 months – Internship)**
+    Front-End Web Development (React, TypeScript, Redux, MUI X).
 
-## 📂 Mes Projets Récents
+  - **Intensive Full-Stack Training (7 months)**
+    Learning and hands-on projects in Front-end & Back-end.
 
-- [stage-rtbf-entreprise](https://github.com/Lumar-ux/stage-rtbf-entreprise)  
-  Durant mon stage, j’ai participé à la refonte de la partie “Entreprise” du site RTBF, en coordination avec le site principal RTBF Actus.  
-  - Stack front-end : Next.js v15 + TypeScript + TailwindCSS v4  
-  - Architecture monorepo avec NX (apps `one-site`, `entreprise`, libraries partagées)  
-  - API / backend : Laravel (servant de source pour les données et la logique)  
-  - Mes contributions : composants réutilisables, optimisation performance, intégration tracking (Gemius / CIM), automatisation CI/CD, documentation technique.  
-  - Ce dépôt ne contient pas le code source complet pour des raisons de confidentialité, mais documente l’architecture, les choix techniques et mes apports.  
-  :contentReference[oaicite:0]{index=0}  
 
-- [Tavola Next-Laravel](https://github.com/Lumar-ux/tavola-next-laravel)  
-  Projet personnel visant à connecter un **front-end Next.js** moderne à un **back-end Laravel** via Sanctum pour l’authentification.  
-  - Front-end : Next.js 15 + TypeScript + TailwindCSS v4 + shadcn/ui  
-  - Back-end : Laravel 12 avec API REST sécurisée (Sanctum)  
-  - Objectifs :  
-    - Créer une base solide **Full-stack moderne** avec une architecture claire  
-    - Mettre en pratique **l’authentification utilisateur**, la gestion de sessions et les appels API  
-    - Démontrer la compatibilité entre **Next.js** et **Laravel Sanctum** pour une app scalable  
-  - Le projet est pensé comme une **application de démonstration** pouvant évoluer vers une solution de gestion complète (ex. app de réservation ou gestion utilisateur).  
+## 📂 My Recent Projects
 
-- [GetFlix](https://github.com/Lumar-ux/getflixProject)  
-  🎥 **GetFlix** est un projet de site de streaming inspiré de plateformes populaires comme Netflix, Amazon Prime Video, Popcorn Time et Stremio, **réalisé en collaboration** avec Amandine Van de Winckel et Alisabah Separ.  
-  - Objectif : consolider mes compétences en HTML, Tailwind CSS, PHP et MySQL tout en créant une plateforme fonctionnelle et sécurisée.  
-  - Auth / sessions : inscription, connexion, déconnexion, gestion des droits utilisateur (utilisateur vs admin).  
-  - Catalogue de films avec barre de recherche et filtres de tri.  
-  - Intégration de l’API TMDB pour récupérer les données de films.  
-  - Interface responsive en HTML + Tailwind CSS + JavaScript / Ajax.  
-  - Back-end en PHP + MySQL.  
-  - Back-office pour la gestion des utilisateurs et des commentaires (CRUD).  
-  - Sécurisation du code (sessions, CSRF, XSS).  
-  - Newsletter intégrée via Mailchimp/Mailjet + Improvmx pour emails personnalisés.  
-  - Déploiement sur InfinityFree (hébergement PHP).  
-  - Gestion de projet via Trello et méthodologie agile.
+  - [stage-rtbf-entreprise](https://github.com/Lumar-ux/stage-rtbf-entreprise) </br>
+    During my internship, I participated in the redesign of the "Entreprise" section of the RTBF website, in coordination with the main RTBF Actus site.
+
+      - Front-end stack: Next.js v15 + TypeScript + TailwindCSS v4
+      - Monorepo architecture with NX (apps `one-site`, `entreprise`, shared libraries)
+      - API / backend: Laravel (serving as the source for data and logic)
+      - My contributions: reusable components, performance optimization, tracking integration (Gemius / CIM), CI/CD automation, technical documentation.
+      - This repository does not contain the full source code for confidentiality reasons, but it documents the architecture, technical choices, and my contributions.
+
+  - [Tavola Next-Laravel](https://github.com/Lumar-ux/tavola-next-laravel) </br>
+    A personal project aimed at connecting a modern **Next.js front-end** to a **Laravel back-end** using Sanctum for authentication.
+
+      - Front-end: Next.js 15 + TypeScript + TailwindCSS v4 + shadcn/ui
+      - Back-end: Laravel 12 with a secure REST API (Sanctum)
+      - Goals:
+          - Create a solid, modern **Full-stack** foundation with a clear architecture
+          - Implement **user authentication**, session management, and API calls
+          - Demonstrate the compatibility between **Next.js** and **Laravel Sanctum** for a scalable app
+      - The project is designed as a **demonstration application** that can evolve into a complete management solution (e.g., a booking or user management app).
+
+  - [GetFlix](https://github.com/Lumar-ux/getflixProject) </br>
+    🎥 **GetFlix** is a streaming site project inspired by popular platforms like Netflix, Amazon Prime Video, Popcorn Time, and Stremio, created **in collaboration** with Amandine Van de Winckel and Alisabah Separ.
+
+      - Goal: to consolidate my skills in HTML, Tailwind CSS, PHP, and MySQL while creating a functional and secure platform.
+      - Auth / sessions: registration, login, logout, user rights management (user vs. admin).
+      - Movie catalog with a search bar and sorting filters.
+      - Integration of the TMDB API to fetch movie data.
+      - Responsive interface using HTML + Tailwind CSS + JavaScript / Ajax.
+      - Back-end in PHP + MySQL.
+      - Back-office for managing users and comments (CRUD).
+      - Code security (sessions, CSRF, XSS).
+      - Newsletter integration via Mailchimp/Mailjet + Improvmx for custom emails.
+      - Deployment on InfinityFree (PHP hosting).
+      - Project management via Trello and agile methodology.
 
 
 ## 📊 Stats
@@ -158,14 +160,14 @@ Actuellement, je recherche mon **premier poste** afin de mettre en pratique et f
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumar-ux&show_icons=true&locale=en" alt="lumar-ux" /></p>
 
 
-## 🎯 Objectifs
+## 🎯 Goals
 
-- Obtenir un poste **Junior Front-end / Full-stack** dans une équipe tech ambitieuse  
-- Apporter mes compétences en **Next.js, Laravel, TypeScript**  
-- Continuer à progresser sur les aspects **architecture, performance, tests**  
+  - Obtain a **Junior Front-end / Full-stack** position within an ambitious tech team
+  - Contribute my skills in **Next.js, Laravel, and TypeScript**
+  - Continue to grow in **architecture, performance, and testing**
 
 
-## 📫 Me Contacter
+## 📫 Contact Me
 
-- **LinkedIn :** [linkedin.com/in/lucasmaroy](https://www.linkedin.com/in/lucasmaroy/)  
-- **Email :** lucasmaroy42@gmail.com
+  - **LinkedIn:** [linkedin.com/in/lucasmaroy](https://www.linkedin.com/in/lucasmaroy/)
+  - **Email:** [lucasmaroy42@gmail.com](mailto:lucasmaroy42@gmail.com)
