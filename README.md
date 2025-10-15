@@ -126,6 +126,7 @@ I am currently seeking my **first position** to apply and expand my skills.
       - API / backend: Laravel (serving as the source for data and logic)
       - My contributions: reusable components, performance optimization, tracking integration (Gemius / CIM), CI/CD automation, technical documentation.
       - This repository does not contain the full source code for confidentiality reasons, but it documents the architecture, technical choices, and my contributions.
+      - 🔗 [Visit the website](https://www.rtbf.be/et-vous)
 
   - [Tavola Next-Laravel](https://github.com/Lumar-ux/tavola-next-laravel) </br>
     A personal project aimed at connecting a modern **Next.js front-end** to a **Laravel back-end** using Sanctum for authentication.
