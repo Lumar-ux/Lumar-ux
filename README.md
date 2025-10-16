@@ -106,7 +106,7 @@ I am currently seeking my **first position** to apply and expand my skills.
 
 ## 💼 Experience
 
-  - **RTBF (6 months – Internship)**
+  - **RTBF (6 months – paid internship)**
     Front-end development and architecture for the "Entreprise" version of the RTBF website, working alongside the internal teams.
 
   - **PEPPS (2 months – Internship)**
@@ -119,7 +119,7 @@ I am currently seeking my **first position** to apply and expand my skills.
 ## 📂 My Recent Projects
 
   - [stage-rtbf-entreprise](https://github.com/Lumar-ux/stage-rtbf-entreprise) </br>
-    During my internship, I participated in the redesign of the "Entreprise" section of the RTBF website, in coordination with the main RTBF Actus site.
+    During my paid internship at RTBF, I contributed to the redesign of the "Entreprise" section of the RTBF website, in coordination with the main RTBF Actus site.
 
       - Front-end stack: Next.js v15 + TypeScript + TailwindCSS v4
       - Monorepo architecture with NX (apps `one-site`, `entreprise`, shared libraries)
