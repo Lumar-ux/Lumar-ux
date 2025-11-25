@@ -138,6 +138,7 @@ I am currently seeking my **first position** to apply and expand my skills.
           - Implement **user authentication**, session management, and API calls
           - Demonstrate the compatibility between **Next.js** and **Laravel Sanctum** for a scalable app
       - The project is designed as a **demonstration application** that can evolve into a complete management solution (e.g., a booking or user management app).
+      - 🔗 [Visit the website](https://tavola-app.vercel.app/)
 
   - [GetFlix](https://github.com/Lumar-ux/getflixProject) </br>
     🎥 **GetFlix** is a streaming site project inspired by popular platforms like Netflix, Amazon Prime Video, Popcorn Time, and Stremio, created **in collaboration** with Amandine Van de Winckel and Alisabah Separ.
